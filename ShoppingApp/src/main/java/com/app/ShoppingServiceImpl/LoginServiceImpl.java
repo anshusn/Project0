@@ -4,13 +4,13 @@ import com.app.ShoppingService.LoginService;
 import com.app.Shoppingdao.LoginDAO;
 import com.app.ShoppingdaoImpl.LoginDAOImpl;
 import com.app.exception.BusinessException;
-import com.app.model.CustomerLogin;
-import com.app.model.EmployeeLogin;
+import com.app.model.Customerlogin;
+import com.app.model.Employeelogin;
 
 public class LoginServiceImpl implements LoginService {
 	LoginDAO logindao=new LoginDAOImpl();
 	@Override
-	public CustomerLogin cusLogin(CustomerLogin customerlogin) throws BusinessException {
+	public Customerlogin cusLogin(Customerlogin customerlogin) throws BusinessException {
 		if(customerlogin.getCusemail()!=null && customerlogin.getCuspassword()!=null) {
 			customerlogin=logindao.cusLogin(customerlogin);
 		}else{
@@ -20,8 +20,8 @@ public class LoginServiceImpl implements LoginService {
 	}
 
 	@Override
-	public EmployeeLogin empLogin(EmployeeLogin employeelogin) throws BusinessException {
-		if(employeelogin.getEmpemail()!=null && employeelogin.getEmppassword()!=0) {
+	public Employeelogin empLogin(Employeelogin employeelogin) throws BusinessException {
+		if(employeelogin.getEmpemail()!=null && employeelogin.getEmppassword()!=null) {
 			employeelogin=logindao.empLogin(employeelogin);
 		}else{
 			throw new BusinessException("invalid details!!");

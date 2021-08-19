@@ -1,28 +1,18 @@
 package com.app.model;
 
 public class Product {
-	private int proId;
 	private String proName;
 	private int numofItems;
-	private int proPrice;
-	private int proDiscount;
+	private float proPrice;
 	public Product() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public Product(int proId, String proName, int numofItems, int proPrice, int proDiscount) {
+	public Product(String proName, int numofItems, float proPrice) {
 		super();
-		this.proId = proId;
 		this.proName = proName;
 		this.numofItems = numofItems;
 		this.proPrice = proPrice;
-		this.proDiscount = proDiscount;
-	}
-	public int getProId() {
-		return proId;
-	}
-	public void setProId(int proId) {
-		this.proId = proId;
 	}
 	public String getProName() {
 		return proName;
@@ -36,22 +26,17 @@ public class Product {
 	public void setNumofItems(int numofItems) {
 		this.numofItems = numofItems;
 	}
-	public int getProPrice() {
+	public float getProPrice() {
 		return proPrice;
 	}
-	public void setProPrice(int proPrice) {
+	public void setProPrice(float proPrice) {
 		this.proPrice = proPrice;
 	}
-	public int getProDiscount() {
-		return proDiscount;
-	}
-	public void setProDiscount(int proDiscount) {
-		this.proDiscount = proDiscount;
-	}
+
 	@Override
 	public String toString() {
-		return "Product [proId=" + proId + ", proName=" + proName + ", numofItems=" + numofItems + ", proPrice="
-				+ proPrice + ", proDiscount=" + proDiscount + "]";
+		return "Product [proName=" + proName + ", numofItems=" + numofItems + ", proPrice="
+				+ proPrice + "]";
 	}
 	
 	

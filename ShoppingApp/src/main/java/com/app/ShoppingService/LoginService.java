@@ -1,11 +1,11 @@
 package com.app.ShoppingService;
 
 import com.app.exception.BusinessException;
-import com.app.model.CustomerLogin;
-import com.app.model.EmployeeLogin;
+import com.app.model.Customerlogin;
+import com.app.model.Employeelogin;
 
 public interface LoginService {
-	public CustomerLogin cusLogin(CustomerLogin customerlogin) throws BusinessException;
-	public EmployeeLogin empLogin(EmployeeLogin employeelogin) throws BusinessException;
+	public Customerlogin cusLogin(Customerlogin customerlogin) throws BusinessException;
+	public Employeelogin empLogin(Employeelogin employeelogin) throws BusinessException;
 
 }

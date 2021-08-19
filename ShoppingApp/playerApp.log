@@ -1,0 +1,63 @@
+[main] 2021-08-19 12:20:04 INFO  com.app.main.Main  -                      WELCOME TO ANSHU'S ONLINE SHOPPING APP     
+[main] 2021-08-19 12:20:04 INFO  com.app.main.Main  -               ==================================================
+[main] 2021-08-19 12:20:04 INFO  com.app.main.Main  - Main Menu: 
+[main] 2021-08-19 12:20:04 INFO  com.app.main.Main  - 1).Log in
+[main] 2021-08-19 12:20:04 INFO  com.app.main.Main  - 2).SignUp as a Customer
+[main] 2021-08-19 12:20:04 INFO  com.app.main.Main  - 3).Exit
+[main] 2021-08-19 12:20:04 INFO  com.app.main.Main  - Enter a number between 1-3: 
+[main] 2021-08-19 12:20:07 INFO  com.app.main.Main  - 
+           ------Welcome to Log-in Menu------
+[main] 2021-08-19 12:20:07 INFO  com.app.main.Main  - 
+Login menu
+[main] 2021-08-19 12:20:07 INFO  com.app.main.Main  - 
+1).Login As Employee
+[main] 2021-08-19 12:20:07 INFO  com.app.main.Main  - 2).login As Customer
+[main] 2021-08-19 12:20:07 INFO  com.app.main.Main  - 3).go to main menu
+[main] 2021-08-19 12:20:07 INFO  com.app.main.Main  - Enter your choice: 
+[main] 2021-08-19 12:20:09 INFO  com.app.main.Main  - 
+         WELCOME TO EMPLOYEE LOGIN SCREEN
+[main] 2021-08-19 12:20:09 INFO  com.app.main.Main  -           ==================================
+[main] 2021-08-19 12:20:09 INFO  com.app.main.Main  - 
+Enter your email: 
+[main] 2021-08-19 12:20:14 INFO  com.app.main.Main  - 
+Enter your password: 
+[main] 2021-08-19 12:20:22 INFO  com.app.main.Main  - 
+Employee Login Successfully!!
+[main] 2021-08-19 12:20:22 INFO  com.app.main.Main  - 
+Welcome anshusn@gmail.com
+[main] 2021-08-19 12:20:22 INFO  com.app.main.Main  - 1).Add product
+[main] 2021-08-19 12:20:22 INFO  com.app.main.Main  - 2).View customers using different filters
+[main] 2021-08-19 12:20:22 INFO  com.app.main.Main  - 3).LogOut
+[main] 2021-08-19 12:20:22 INFO  com.app.main.Main  - Enter choice between 1-3: 
+[main] 2021-08-19 12:20:24 INFO  com.app.main.Main  - 1).view customers using email
+[main] 2021-08-19 12:20:24 INFO  com.app.main.Main  - 2).View customers using order number
+[main] 2021-08-19 12:20:24 INFO  com.app.main.Main  - 3).View customers using Address
+[main] 2021-08-19 12:20:24 INFO  com.app.main.Main  - 4).View customers using name
+[main] 2021-08-19 12:20:24 INFO  com.app.main.Main  - 5).Go to previous Screen
+[main] 2021-08-19 12:20:24 INFO  com.app.main.Main  - Enter choice between 1-5: 
+[main] 2021-08-19 12:20:26 INFO  com.app.main.Main  - Enter Customer Email: 
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - customer with email jai@gmail.com found successfully... Below is the details
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - Customerdetails [id=4, name=jai shree, email=jai@gmail.com, Address=goa, Gender=F]
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - 1).view customers using email
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - 2).View customers using order number
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - 3).View customers using Address
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - 4).View customers using name
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - 5).Go to previous Screen
+[main] 2021-08-19 12:20:32 INFO  com.app.main.Main  - Enter choice between 1-5: 
+[main] 2021-08-19 12:20:54 INFO  com.app.main.Main  - 
+Now you are back to Employee Main Screen
+[main] 2021-08-19 12:20:54 INFO  com.app.main.Main  - 
+Welcome anshusn@gmail.com
+[main] 2021-08-19 12:20:54 INFO  com.app.main.Main  - 1).Add product
+[main] 2021-08-19 12:20:54 INFO  com.app.main.Main  - 2).View customers using different filters
+[main] 2021-08-19 12:20:54 INFO  com.app.main.Main  - 3).LogOut
+[main] 2021-08-19 12:20:54 INFO  com.app.main.Main  - Enter choice between 1-3: 
+[main] 2021-08-19 12:20:57 INFO  com.app.main.Main  - 
+Logged out successfully!!
+[main] 2021-08-19 12:20:57 INFO  com.app.main.Main  - Main Menu: 
+[main] 2021-08-19 12:20:57 INFO  com.app.main.Main  - 1).Log in
+[main] 2021-08-19 12:20:57 INFO  com.app.main.Main  - 2).SignUp as a Customer
+[main] 2021-08-19 12:20:57 INFO  com.app.main.Main  - 3).Exit
+[main] 2021-08-19 12:20:57 INFO  com.app.main.Main  - Enter a number between 1-3: 
+[main] 2021-08-19 12:20:59 INFO  com.app.main.Main  - 
+           Thank you for visiting this app! See you soon!!!!
