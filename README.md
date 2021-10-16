@@ -4,14 +4,14 @@
    The Online Shopping is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
 
  
- <h3>Technologies & Tools Used <h3>
+ <h3>Technologies & Tools Used: <h3>
   1. Java <br>
   2. JDBC <br>
   3. MAVEN <br>
   4. JUNIT <br>
   5. Log4j <br>
   6. MYSQL <br>
-  7.SpringToolSuite4<br><br>
+  7. SpringToolSuite4<br><br>
   
  Anshu's Shopping app Diagram.
  <img src="https://github.com/anshusn/Project0/blob/master/shoppingappDia.png" width=800px height=400px><br>
