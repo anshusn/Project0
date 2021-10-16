@@ -1,0 +1,29 @@
+Tables
+1).CustomerLogin
+   #cusfirstname(varchar)
+   #cuslastname(varchar)
+   #cusemail(varchar)
+   #cuspassword(varchar)
+2).EmployeeLogin
+   #empemail(varchar)
+   #emppasssword(varchar)
+3).Customerdetails
+   #id(int)
+   #name(varchar)
+   #email(varchar)
+   #address(varchar)
+   #gender(varchar)
+   #loginid(int)
+4).Cart
+   #product(varchar)
+   #countproduct(int)
+   #cusid(int)
+   #total(long)
+5).OrderProduct
+   #orderid(int)
+   #productname(varchar)
+   #custoemrid(int)
+6).Product
+   #proname(varchar)
+   #numofitems(varchar)
+   #proprice(float)
