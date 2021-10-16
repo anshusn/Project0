@@ -13,7 +13,7 @@
   6. MYSQL <br><br><br>
   
  Anshu's Shopping app Diagram.
- <img src="https://github.com/fsuleman2/project0/blob/master/SYEDS_BANK_APP.png" width=800px height=400px><br>
+ <img src="https://github.com/anshusn/Project0/blob/master/shoppingappDia.png" width=800px height=400px><br>
   
   
 |#|User Story
