@@ -11,7 +11,7 @@
   4. JUNIT <br>
   5. Log4j <br>
   6. MYSQL <br>
-  7.SpringToolSuite4<br><br><br>
+  7.SpringToolSuite4<br><br>
   
  Anshu's Shopping app Diagram.
  <img src="https://github.com/anshusn/Project0/blob/master/shoppingappDia.png" width=800px height=400px><br>
@@ -30,16 +30,13 @@
 |9|As a customer, I can mark the order as received.
 |10|As a customer, I can view all my orders and it's status.
 |11|As a user, I can logout of my session.
-|12|As a employee, he can search customer by various filters like email, id, name, orderid etc.
+|12|As a employee, he can search customer by various filters like email, id, name, orderid etc.<br>
 
-NOTE:
-1. User in above context refers to both employee and customer
+NOTE:1. User in above context refers to both employee and customer
 2. Presume that there is only one Employee in the system. Hardcode an Employee in the system. Employee can login directly.
 3. Customer needs to be created/registered fresh and then login. Customers are many.
 
-##contributing:
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-For those who would like to discuss further development, my email is 
-Anshusn78@gmail.com
+##contributing:<br>
+It's an indivisual project created by Me.Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+For those who would like to discuss further development, my email is  Anshusn78@gmail.com
 
-I would like to say that i am aware of the application is yet to be properly optimized. I will update the application soon along with all the appropiate features that i want to integrate in the application in future.
