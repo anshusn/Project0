@@ -1,18 +1,20 @@
-# Project0
- The Online Shopping is a console-based menu driven application that simulates online shopping experience.
- An employee can add Products. 
- A Customer can place order on the products.
- The employee delivers the Product to the Customer.
+# Anshu's Shopping App
+ ## Description
+   
+   The Online Shopping is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
+
  
  <h3>Technologies & Tools Used <h3>
   1. Java <br>
   2. JDBC <br>
   3. MAVEN <br>
   4. JUNIT <br>
-  5. POSTGRESQL <br>
-  6. MYSQL <br>
+  5. Log4j <br>
+  6. MYSQL <br><br><br>
   
- I have added the Diagram of Shopping app. link-
+ Anshu's Shopping app Diagram.
+ <img src="https://github.com/fsuleman2/project0/blob/master/SYEDS_BANK_APP.png" width=800px height=400px><br>
+  
   
 |#|User Story
 |-----|-----|
@@ -34,10 +36,9 @@ NOTE:
 2. Presume that there is only one Employee in the system. Hardcode an Employee in the system. Employee can login directly.
 3. Customer needs to be created/registered fresh and then login. Customers are many.
 
-|#|contributing:
+##contributing:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 For those who would like to discuss further development, my email is 
-
 Anshusn78@gmail.com
 
-Also i am aware that the application is yet to be properly optimized. I will update the application soon along with all the appropiate features that i want to integrate in the application in future.
+I would like to say that i am aware of the application is yet to be properly optimized. I will update the application soon along with all the appropiate features that i want to integrate in the application in future.
